@@ -1,0 +1,5 @@
+src-git packages https://git.openwrt.org/feed/packages.git^575776cfa
+src-git routing https://git.openwrt.org/feed/routing.git^2cf253b
+src-git telephony https://git.openwrt.org/feed/telephony.git^e05e009
+src-git-full luci https://git.openwrt.org/project/luci.git^e98243ef9e
+src-link smatec /home/user/archive-master/smatec-sv3

@@ -415,6 +415,31 @@ Description:  FFmpeg is a a software package that can record, convert and stream
  .
  This package contains the FFmpeg command line tool.
 
+Package: ffprobe
+Version: 5.1.3-1
+Depends: libc, libpthread, libffmpeg-full
+Source: feeds/packages/multimedia/ffmpeg
+SourceName: ffprobe
+License: LGPL-2.1-or-later GPL-2.0-or-later LGPL-3.0-or-later
+LicenseFiles: COPYING.GPLv2 COPYING.GPLv3 COPYING.LGPLv2.1 COPYING.LGPLv3
+Section: multimedia
+SourceDateEpoch: 1696437219
+CPE-ID: cpe:/a:ffmpeg:ffmpeg
+Maintainer: Ted Hess <thess@kitschensync.net>, Ian Leonard <antonlacon@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 47878
+Filename: ffprobe_5.1.3-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 48755
+SHA256sum: 30361d14cf8f623fb72c1cf92966678173328fe53228926343820e9736c42e2d
+Description:  FFmpeg is a a software package that can record, convert and stream digital
+ audio and video in numerous formats.
+ 
+ FFmpeg licensing / patent issues are complex. It is the reponsibility of the
+ user to understand any requirements in this regard with its usage. See:
+ https://ffmpeg.org/legal.html for further information.
+ .
+ This package contains the FFprobe command line tool.
+
 Package: htop
 Version: 3.2.2-1
 Depends: libc, libncurses6
