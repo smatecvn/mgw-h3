@@ -6,14 +6,14 @@ SourceName: mgw_h3-bsp
 Section: utils
 SourceDateEpoch: 1712986789
 Architecture: arm_cortex-a7_neon-vfpv4
-Installed-Size: 17530
+Installed-Size: 17684
 Filename: mgw_h3-bsp_2_arm_cortex-a7_neon-vfpv4.ipk
-Size: 18639
-SHA256sum: e1b6912d2043b4553b8c7607f8abeb5b5ab610cd5ca91bc8b86ee50f9d13240a
+Size: 18797
+SHA256sum: f8633e4e3f9a038382af307578f47baae6e2ad8f569637e4073b4f83e525f60a
 Description:  MGW_H3 Board Support Package
 
 Package: python3-mgw
-Version: enc_3.0.5p1-1
+Version: wifi_sv3_3.0.4p8-1
 Depends: libc, python3
 Source: /home/user/archive-master/smatec-sv3/python-mgw
 SourceName: python3-mgw
@@ -24,10 +24,10 @@ SourceDateEpoch: 1712986789
 CPE-ID: cpe:/a:smt:mgw
 Maintainer: Nguyen Hong Son <sonnh911@gmail.com>
 Architecture: arm_cortex-a7_neon-vfpv4
-Installed-Size: 152678
-Filename: python3-mgw_enc_3.0.5p1-1_arm_cortex-a7_neon-vfpv4.ipk
-Size: 153682
-SHA256sum: 8b7ba374ce908b8080c650aa5f80a728c16d39cd49c3b9fceec10b92701d9323
+Installed-Size: 153262
+Filename: python3-mgw_wifi_sv3_3.0.4p8-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 154243
+SHA256sum: a5cc1bdd2147f62f274d60009fba686f0dbf1ce16eb4aec1f9cdd28fae09cf62
 Description:  Smatec M-Gateway
  .
  (Variant for Python3)
