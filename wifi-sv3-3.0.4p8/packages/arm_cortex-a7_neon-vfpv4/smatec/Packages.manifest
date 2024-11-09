@@ -6,10 +6,10 @@ SourceName: mgw_h3-bsp
 Section: utils
 SourceDateEpoch: 1712986789
 Architecture: arm_cortex-a7_neon-vfpv4
-Installed-Size: 17684
+Installed-Size: 17867
 Filename: mgw_h3-bsp_2_arm_cortex-a7_neon-vfpv4.ipk
-Size: 18797
-SHA256sum: f8633e4e3f9a038382af307578f47baae6e2ad8f569637e4073b4f83e525f60a
+Size: 18987
+SHA256sum: 9d57a4dccbb71d849df06c0f157d0104d0849550d03accca7ba8f9264445c999
 Description:  MGW_H3 Board Support Package
 
 Package: python3-mgw
