@@ -1,0 +1,34 @@
+Package: mgw_h3-bsp
+Version: 2
+Depends: libc, coreutils, coreutils-timeout, htop, lscpu, alsa-utils, aria2, fdisk, luci, e2fsprogs, kmod-usb-audio, block-mount, lsblk, ffmpeg, ffprobe, mpc, mpd, usbutils, luci-app-statistics, madplay, python3, python3-pyserial, python3-requests, python3-paho-mqtt, picocom, dmesg, comgt, usb-modeswitch, kmod-mii, kmod-usb-wdm, kmod-usb-net-qmi-wwan, kmod-usb-net-rndis, uqmi, kmod-usb-serial, kmod-usb-serial-option, kmod-usb-serial-wwan, collectd, collectd-mod-cpu, collectd-mod-disk, collectd-mod-interface, collectd-mod-iwinfo, collectd-mod-load, collectd-mod-memory, collectd-mod-network, collectd-mod-rrdtool, collectd-mod-sensors, collectd-mod-thermal, liblua5.1.5, kmod-rtc-pcf8563, i2c-tools, python3-smbus, ncat, curl, tailscale, python3-mgw, speedtest-netperf, wpa-supplicant, python3-wiringpi
+Source: /home/user/archive-master/smatec-sv3-sadec/mgw_h3-bsp
+SourceName: mgw_h3-bsp
+Section: utils
+SourceDateEpoch: 1712986789
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 17966
+Filename: mgw_h3-bsp_2_arm_cortex-a7_neon-vfpv4.ipk
+Size: 19088
+SHA256sum: 64d44dee9bc1cb66e7703c04a54c2059ac88b155e3459302f3f927f9a4d90492
+Description:  MGW_H3 Board Support Package
+
+Package: python3-mgw
+Version: wifi_sv3_3.0.4p8-1
+Depends: libc, python3
+Source: /home/user/archive-master/smatec-sv3-sadec/python-mgw
+SourceName: python3-mgw
+License: Python Software Foundation License (PSF)
+LicenseFiles: LICENSE.rst
+Section: lang
+SourceDateEpoch: 1712986789
+CPE-ID: cpe:/a:smt:mgw
+Maintainer: Nguyen Hong Son <sonnh911@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 161978
+Filename: python3-mgw_wifi_sv3_3.0.4p8-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 162968
+SHA256sum: ecd735b0bba734352b80b0d8995885a4e7b2cf74e2a5dc56ef3607a2fb31c063
+Description:  Smatec M-Gateway
+ .
+ (Variant for Python3)
+
