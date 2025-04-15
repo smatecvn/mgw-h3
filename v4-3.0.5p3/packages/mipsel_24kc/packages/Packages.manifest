@@ -1,0 +1,36 @@
+Package: cgi-io
+Version: 2022-08-10-901b0f04-21
+Depends: libc, libubox20210819, libubus20210630
+Source: feeds/packages/net/cgi-io
+SourceName: cgi-io
+License: GPL-2.0-or-later
+Section: net
+SourceDateEpoch: 1660168492
+Maintainer: John Crispin <blogic@openwrt.org>
+Architecture: mipsel_24kc
+Installed-Size: 7580
+Filename: cgi-io_2022-08-10-901b0f04-21_mipsel_24kc.ipk
+Size: 8386
+SHA256sum: ebe3f8ac874425f75f90dc1e4997d1eab22c97bfa3ad8f017ddbd40ff4be7f30
+Description:  This package contains an cgi utility that is useful for up/downloading files
+
+Package: htop
+Version: 3.2.1-1
+Depends: libc, libncurses6
+Source: feeds/packages/admin/htop
+SourceName: htop
+License: GPL-2.0-or-later
+LicenseFiles: COPYING
+Section: admin
+SourceDateEpoch: 1654623467
+CPE-ID: cpe:/a:htop:htop
+Maintainer: Etienne CHAMPETIER <champetier.etienne@gmail.com>
+Architecture: mipsel_24kc
+Installed-Size: 82898
+Filename: htop_3.2.1-1_mipsel_24kc.ipk
+Size: 83804
+SHA256sum: 462257af3ff408f64ae5b1f3c3d8ebb2d85f237b38d34df80b2144effea8e275
+Description:  Htop is an ncursed-based process viewer similar to top, but
+ it allows to scroll the list vertically and horizontally to
+ see all processes and their full command lines.
+
